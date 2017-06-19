@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.notthegolfer.node-dash-button</string>
+    <string>com.notthegolfer.dash-button</string>
 
     <key>WorkingDirectory</key>
     <string>/Users/Greg/Documents/Dev/Dash_Button</string>
