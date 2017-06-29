@@ -4,6 +4,6 @@ module.exports = {
   },
   target: {
     name: "IFTTT",
-    url: "https://maker.ifttt.com/trigger/dash_pressed/with/key/dg1IbgikKAYnxmYq-A57pa"
+    url: "https://maker.ifttt.com/trigger/dash_pressed/with/key/xxxxxxxxxxx"
   }
 };
